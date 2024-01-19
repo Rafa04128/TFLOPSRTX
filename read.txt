@@ -1,0 +1,17 @@
+This is a basic starting point to see if amd is a optimal contender for the NVIDIA dominance. 
+Using Tinygrad FrameWork, and AMD ROCM we will try to generate Pytorch, tensorflow like libraries.
+
+AMD is basically half the price in consumer end hardware. 
+
+The purpose is to understand to a fundamental level how to use this GPUS as we use NVIDIA for the same task. 
+
+https://rocm.docs.amd.com/en/docs-5.5.1/release/windows_support.html
+
+User Guide for AMDGPU Backend
+
+https://www.llvm.org/docs/AMDGPUUsage.html#processors
+
+
+https://www.youtube.com/watch?v=IBQH19BTh9w
+
+to be continuee...
